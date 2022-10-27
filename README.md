@@ -7,5 +7,5 @@
     [X axis]: How many cells are in X axis
     [Y axis]: How many cells are in Y axis
     [Turns]: Game turns
-    [-r] (Optional): Random initialize of cells\n"
+    [-r] (Optional): Random initialize of cells"
 ```
